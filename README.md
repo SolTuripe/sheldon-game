@@ -8,7 +8,7 @@
 - `npm init`
 - `npm install --save-dev jest`
 
-## Run Tests
+## Run Test
 `npm run test`
 
 ## Rules
