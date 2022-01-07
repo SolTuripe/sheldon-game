@@ -9,8 +9,8 @@ class Rock extends Gesture {
   fight(gesture) {
     //el nombre del gesto que me está llegando
     if (gesture instanceof Scissor || gesture instanceof Lizard) {
-//puedo hacer el instaceof y así me elimino la clase Gesture con el name
-  //pregunto si gesture se creó a partir de scissor o si se creó a partir de lizard
+      //puedo hacer el instaceof y así me elimino la clase Gesture con el name
+      //pregunto si gesture se creó a partir de scissor o si se creó a partir de lizard
       return true;
     }
 

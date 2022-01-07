@@ -1,17 +1,21 @@
 # Sheldon Game 🤓
 
 ## Requiered
+
 - Working environment for JavaScript [Jest](https://jestjs.io/es-ES/)
 - [node](https://nodejs.org/en/) installed
 
 ## Install
+
 - `npm init`
 - `npm install --save-dev jest`
 
 ## Run Test
+
 `npm run test`
 
 ## Rules
+
 Rock-paper-scissors-lizard-Spock
 
 - Scissors cut paper
@@ -26,4 +30,5 @@ Rock-paper-scissors-lizard-Spock
 - Rock break scissors
 
 ## GO, GO, GO!
+
 May the force be with you 👾
